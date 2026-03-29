@@ -12,6 +12,6 @@
     "Headers:   $dir\\include",
     "Library:   $dir\\lib",
     "Examples:  $dir\\examples",
-    "Docs:      $dir\\doc"
+    "Docs:      $dir\\docs"
   ]
 }
