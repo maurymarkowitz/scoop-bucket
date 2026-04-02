@@ -1,6 +1,6 @@
-# Homebrew/scoop bucket for Maury Markowitz projects
+# scoop bucket for open source projects
 
-This repo holds Scoop manifests for RetroFOCAL-related utilities. Current manifests:
+This repo holds Scoop manifests. Current manifests:
 
 - `onec.json`
   - OpenNEC antenna simulator
