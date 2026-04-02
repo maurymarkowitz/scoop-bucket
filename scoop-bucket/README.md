@@ -1,6 +1,12 @@
-# Homebrew/scoop bucket for Maury Markowitz projects
+# Homebrew/Scoop bucket for Maury Markowitz projects
 
-This repo holds Scoop manifests for RetroFOCAL-related utilities. Current manifests:
+This repository provides Homebrew formulae and Scoop manifests for unofficial software packages.
+
+## Scoop bucket installation
+
+    scoop bucket add maurymarkowitz https://github.com/maurymarkowitz/scoop-bucket
+
+## Current manifests
 
 - `onec.json`
   - OpenNEC antenna simulator
@@ -28,7 +34,20 @@ This repo holds Scoop manifests for RetroFOCAL-related utilities. Current manife
   - expected binary package: `retrobasic-windows-x86_64.zip`
   - note: upstream release currently contains source only; this manifest has a placeholder checksum and should be updated once a Windows release asset is available.
 
-## Using this bucket
+## Install
+
+    scoop install retrofocal
+    scoop install retrobasic
+
+## Run
+
+    retrofocal --help
+    retrobasic --help
+
+## Uninstall
+
+    scoop uninstall retrofocal
+    scoop uninstall retrobasic
 
 1. Add the bucket:
 
