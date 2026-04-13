@@ -1,10 +1,10 @@
 {
-  "version": "1.1.4",
+  "version": ".2.0.1",
   "description": "RetroFOCAL interpreter for classic FOCAL programs",
   "homepage": "https://github.com/maurymarkowitz/RetroFOCAL",
   "license": "GPL-2.0-or-later",
-  "url": "https://github.com/maurymarkowitz/RetroFOCAL/releases/download/v1.1.4/retrofocal-windows-x86_64.zip",
-  "hash": "TODO: set checksum when binary release is created",
+  "url": "https://github.com/maurymarkowitz/RetroFOCAL/releases/download/v.2.0.1/retrofocal-windows-x86_64.zip",
+  "hash": "c1323f80a12e308cc92fd2b35d6bf1ecbfcc9d7b40c1bef49d5f9c1eb3e08215",
   "bin": "retrofocal.exe",
   "notes": [
     "Requires a prebuilt Windows binary asset in upstream releases.",
