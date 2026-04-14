@@ -14,11 +14,11 @@ This repo holds Scoop manifests. Current manifests:
   - homepage: https://github.com/maurymarkowitz/OpenNEC
   - binary package: `onec-windows-x86_64.zip`
 
-- `retrojoss.json`
-  - RetroJOSS interpreter for old JOSS programs
-  - version 1.1.0
-  - homepage: https://github.com/maurymarkowitz/RetroJOSS
-  - binary package: `retrojoss-windows-x86_64.zip`
+- `retrobasic.json`
+  - RetroBASIC interpreter for classic BASIC programs
+  - version 3.0.1
+  - homepage: https://github.com/maurymarkowitz/RetroBASIC
+  - binary package: `retrobasic-windows-x86_64.zip`
 
 - `retrofocal.json`
   - RetroFOCAL interpreter for classic FOCAL programs
