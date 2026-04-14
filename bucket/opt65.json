@@ -1,0 +1,19 @@
+{
+  "version": "1.1.0",
+  "description": "6502/65C02 assembly analyzer and optimizer",
+  "homepage": "https://github.com/maurymarkowitz/opt65",
+  "license": "GPL-2.0-or-later",
+  "url": "https://github.com/maurymarkowitz/opt65/releases/download/v1.1.0/opt65-windows-x86_64.zip",
+  "hash": "0000000000000000000000000000000000000000000000000000000000000000",
+  "extract_dir": "opt65-windows-x86_64\\bin",
+  "bin": "opt65.exe",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/maurymarkowitz/opt65/releases/download/v$version/opt65-windows-x86_64.zip"
+  },
+  "notes": [
+    "Requires a prebuilt Windows binary asset in upstream releases.",
+    "If no asset exists yet, build from source and upload a release package.",
+    "Source release tarball checksum: 0000000000000000000000000000000000000000000000000000000000000000"
+  ]
+}

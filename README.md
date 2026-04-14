@@ -2,6 +2,12 @@
 
 This repo holds Scoop manifests. Current manifests:
 
+- `opt65.json`
+  - opt65 6502/65C02 assembler analyzer and optimizer
+  - version 1.1.0
+  - homepage: https://github.com/maurymarkowitz/opt65
+  - binary package: `opt65-windows-x86_64.zip`
+
 - `onec.json`
   - OpenNEC antenna simulator
   - version 1.1.3
