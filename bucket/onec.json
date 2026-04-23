@@ -1,9 +1,9 @@
 {
-  "version": ".1.3.5",
+  "version": ".1.3.6",
   "description": "OpenNEC antenna simulator",
   "homepage": "https://github.com/maurymarkowitz/OpenNEC",
   "license": "MIT",
-  "url": "https://github.com/maurymarkowitz/OpenNEC/releases/download/v.1.3.5/onec-windows-x86_64.zip",
+  "url": "https://github.com/maurymarkowitz/OpenNEC/releases/download/v.1.3.6/onec-windows-x86_64.zip",
   "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
   "bin": "bin/onec.exe",
   "notes": [
